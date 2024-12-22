@@ -1,17 +1,16 @@
-# Quiz App
+# Quiz App - HTML, CSS, and JavaScript
 
-A responsive and interactive Quiz Application built using **HTML**, **CSS**, and **JavaScript**. Users can answer multiple-choice questions, view their scores, and learn from their mistakes!
+This is a simple quiz application built with HTML, CSS, and JavaScript. It allows users to take a quiz with multiple-choice questions and provides feedback on their performance.
 
----
+## Demo
+
+You can view the live demo of the app here: [Demo Link](https://abdelrahmanelsaadany22.github.io/quiz-app-html-css-js/)
 
 ## Features
 
-- **Dynamic Question Handling**: Displays a series of multiple-choice questions fetched or defined in the script.
-- **Score Tracking**: Calculates and displays the user's score at the end of the quiz.
-- **Feedback**: Provides instant feedback for correct and incorrect answers.
-- **Responsive Design**: Works seamlessly on different screen sizes and devices.
-
----
+- Multiple-choice questions
+- Instant feedback after quiz completion
+- Simple and clean UI
 
 ## Installation
 
