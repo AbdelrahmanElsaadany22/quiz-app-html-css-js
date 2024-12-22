@@ -13,8 +13,9 @@ A responsive and interactive Quiz Application built using **HTML**, **CSS**, and
 
 ---
 
-## How to Use
+## Installation
 
-1. Clone the repository:
+1. Clone this repository to your local machine:
+
    ```bash
    git clone https://github.com/AbdelrahmanElsaadany22/quiz-app-html-css-js.git
